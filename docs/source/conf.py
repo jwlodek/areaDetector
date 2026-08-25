@@ -14,7 +14,7 @@ extensions = ['sphinx.ext.autodoc',
               'sphinx.ext.extlinks',
               'sphinx.ext.napoleon',
               'sphinx.ext.todo',
-              'm2r2',
+              'sphinx_mdinclude',
               'linuxdoc.rstFlatTable'
 ]
 
