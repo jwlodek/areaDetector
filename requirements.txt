@@ -2,7 +2,7 @@ sphinx>=7.2,<8
 sphinx-bootstrap-theme
 pygments>=2.7.0
 sphinx_rtd_theme>=1.2.0
-m2r
+m2r2
 mistune==3.3.0
 sphinx-multibuild
 linuxdoc
